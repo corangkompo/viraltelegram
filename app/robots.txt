@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://viraltelegram.pages.dev/sitemap.xml
